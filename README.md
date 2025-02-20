@@ -1,4 +1,4 @@
-# 💡 Works on Computer Science  
+#  Algorithm Wisperer
 
 Hello! I’m a dedicated **Computer Science student** passionate about technology and innovation.  
 Currently pursuing a **BSc (Hons) in Computer Science** at **NSBM**.  
