@@ -1,4 +1,4 @@
-#  Algorithm Wisperer
+#  The Digital Blacksmith: Forging the Future
 
 Hello! I’m a dedicated **Computer Science student** passionate about technology and innovation.  
 Currently pursuing a **BSc (Hons) in Computer Science** at **NSBM**.  
